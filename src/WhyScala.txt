@@ -1,0 +1,19 @@
+def evaluates every time it is called
+val evaluates at definition time
+lazy val evaluates the first time it is called
+
+
+Merits:
+
+1.) Type inference, avoids verbosity
+2.) First class functions
+3.) Rich collections api
+4.) Pattern matching and case classes
+5.) Repl
+6.) Integrates with Java
+7.) Functional programming and OO
+8.) Static typing
+9.) generics/higher order types
+10.) tail recursion optimization
+11.) Easier concurrency
+12.) Better readability
